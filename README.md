@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate Web and AI Developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Next.js and Python**
+- 🌱 I’m currently learning and working in ** Python**
 
 - 👯 I’m looking to collaborate **with senior developers**
 
