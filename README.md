@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A passionate Web and AI Developer from Pakistan.</h3>
+<h3 align="center">A passionate AI Developer from Pakistan.</h3>
 
 - 🌱 I’m currently learning and working in ** Python**
 
