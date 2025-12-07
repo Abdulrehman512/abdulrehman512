@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate AI Developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning and working in ** Python**
+- 🌱 I’m currently learning and working in ** Python , Spark and Big Data Engineering **
 
-- 👯 I’m looking to collaborate **with senior developers**
+- 👯 I’m looking to collaborate **with Data Engineers **
 
-- 📫 How to reach me **abdul.rehman11992@gmail.com**
+- 📫 How to reach me **abdulrehman512125@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
