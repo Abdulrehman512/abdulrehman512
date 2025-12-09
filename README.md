@@ -8,6 +8,16 @@
 - 📫 How to reach me **abdulrehman512125@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> </a>  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/> </a> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" width="40" height="40"/>
-</a>   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/> </a>  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Snowflake_Logo.png" alt="snowflake" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" alt="dbt" width="40" height="40"/>
+</a>   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" width="40" height="40"/> </a> <!-- Apache Kafka (working SVG) -->
+<img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="kafka" width="40" height="40"/>
 
+<!-- Snowflake (working SVG) -->
+<img src="https://cdn.worldvectorlogo.com/logos/snowflake-1.svg" alt="snowflake" width="40" height="40"/>
+
+<!-- dbt (working SVG) -->
+<img src="https://cdn.worldvectorlogo.com/logos/dbt-logo-icon.svg" alt="dbt" width="40" height="40"/>
+
+<!-- YARN (closest working Hadoop-YARN icon) -->
+<img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="yarn" width="40" height="40"/>
+</a> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery" width="40" height="40"/> </a>
 
